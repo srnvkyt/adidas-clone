@@ -39,7 +39,7 @@ const Main = () => {
         <div id='discount10' className='d-flex justify-content-center align-items-center pe-5 p-md-2' style={{ backgroundColor: "#007bc6" }}>
           <div className='text-white text-center ps-4 pe-2 py-2 ms-3'>
 
-            UP TO 60% OFF. MEMBERS GET EXTRA 10% OFF
+            no discount for you
             <a href='' className='text-decoration-underline px-2 fs-6 text-white'>SHOP NOW</a>
           </div>
           <div role='button' className='text-white position-absolute end-0 me-4' onClick={discountOfferTrigger} >
