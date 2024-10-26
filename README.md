@@ -18,6 +18,3 @@ https://adidas-clone-0021.vercel.app/
 
 
 
-
-
-
